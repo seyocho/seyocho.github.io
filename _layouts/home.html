@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+  <div class="section no-pad-bot" id="index-banner"></div>
+  
+  <div class="section">
+      <div class="row">
+            <div class="carousel carousel-slider center" data-indicators="true" data-namespace="DIVcarouselcarousel-slider1" style="height: 400px;">
+              <div class="carousel-fixed-item center with-indicators"></div>
+              <div class="carousel-item light-blue lighten-2 white-text active" href="#one!">
+                <h2>First Panel</h2>
+                <p class="white-text">This is your first panel</p>
+              </div>
+              <div class="carousel-item light-blue lighten-2 white-text" href="#two!">
+                <h2>Second Panel</h2>
+                <p class="white-text">This is your second panel</p>
+              </div>
+              <div class="carousel-item light-blue lighten-2 white-text" href="#three!">
+                <h2>Third Panel</h2>
+                <p class="white-text">This is your third panel</p>
+              </div>
+              <ul class="indicators"><li class="indicator-item"></li><li class="indicator-item"></li><li class="indicator-item"></li></div>
+      </div>
+  </div>
+    
+<!--     <div class="container last-post"> -->
+<!--     <section> -->
+<!--         <h5 class="header center">Stack</h5> -->
+<!--         <ul> -->
+<!--           {% for category in site.categories %} -->
+<!--             {% if category[0]=="junk" %} -->
+<!--             <h3>{{ category[0] }}</h3> -->
+<!--              -->
+<!--             <ul> -->
+<!--               {% for post in category[1] %} -->
+<!--                 <li><a href="{{ post.url }}">{{ post.title }}</a></li> -->
+<!--               {% endfor %} -->
+<!--               {% endif %} -->
+<!--             </ul> -->
+<!--           {% endfor %} -->
+<!--  -->
+<!--         </ul> -->
+<!--             -->
+<!--     </section> -->
+<!--     </div> -->
+    
+    <div class="container last-post">
+        <section>
+            <h5>News Stack</h5>
+            <ul class="collection">
+            {% for post in site.posts %}
+            <li class="collection-item">
+              {% assign date_format = site.minima.date_format | default: "[%m/%d, %Y]" %}
+              <span class="title"> {{ post.date | date: date_format }}</span>
+              <span class="title blue-text">{{ post.title | escape }}</span>
+            </li>
+            {% endfor %}
+            </ul>  
+        </section>
+    </div>
+</div>
