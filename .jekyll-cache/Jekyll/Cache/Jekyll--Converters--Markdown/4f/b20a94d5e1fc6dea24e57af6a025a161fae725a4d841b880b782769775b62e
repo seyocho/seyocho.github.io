@@ -1,4 +1,4 @@
-I"]+<h1 class="page-title">Curriculum Vitae</h1>
+I"�+<h1 class="page-title scho-text">Curriculum Vitae</h1>
 
 <div class="section">
     <div class="row">
@@ -11,7 +11,7 @@
                 sycho@handong.edu, 21439001@handong.edu<br />
                 seyocho@gmail.com<br /><br />
                 
-                <a href="https://www.researchgate.net/profile/Seryeyohan_Cho" target="_blank" rel="noreferrer noopener">ResearchGate Profile</a>&nbsp; &nbsp; <a href="https://scholar.google.co.kr/citations?user=MueulK4AAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noreferrer noopener">GoogleScholar Profile</a>&nbsp; &nbsp;
+                <a class="scho-text" href="https://www.researchgate.net/profile/Seryeyohan_Cho" target="_blank" rel="noreferrer noopener">ResearchGate Profile</a>&nbsp; &nbsp; <a class="scho-text" href="https://scholar.google.co.kr/citations?user=MueulK4AAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noreferrer noopener">GoogleScholar Profile</a>&nbsp; &nbsp;
                 
                 
                 
@@ -23,13 +23,13 @@
                 
                 
                 
-                  <a href="/assets/docs/cv.pdf">C.V.(PDF)</a>&nbsp; &nbsp;
+                  <a class="scho-text" href="/assets/docs/cv.pdf">C.V.(PDF)</a>&nbsp; &nbsp;
                 
                 
                 
                 
                 
-                  <a href="/assets/docs/pf.pdf">Portfolio(PDF)</a>
+                  <a class="scho-text" href="/assets/docs/pf.pdf">Portfolio(PDF)</a>
                 
                 
                 

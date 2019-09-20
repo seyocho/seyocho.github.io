@@ -6,6 +6,15 @@
 
 // Google Color Palette defined: http://www.google.com/design/spec/style/color.html
 
+//Livingcoral- by PANTONE
+$scho: (
+  "base":      #ff6f61,
+  "beluga":    #4a4843,
+  "stormgray": #b5bab6,
+  "twill":     #a79b82,
+  "mauvewood": #a75d67,
+  "forest":    #184A45,
+);
 
 $materialize-red: (
   "base":       #e51c23,
@@ -338,6 +347,7 @@ $shades: (
 );
 
 $colors: (
+  "scho": $scho,
   "materialize-red": $materialize-red,
   "red": $red,
   "pink": $pink,

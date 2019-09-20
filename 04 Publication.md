@@ -4,12 +4,12 @@ title: Publication
 permalink: /publication/
 ---
 
-<h1 class="page-title">{{ page.title | escape }}</h1>
+<h1 class="page-title scho-text">{{ page.title | escape }}</h1>
 
 <div class="section">
    <div class="row">
           <div class="col s12">
-                <h6 class="title center blue-text"><strong>Journal papers</strong></h6>
+                <h6 class="title center scho-text"><strong>Journal papers</strong></h6>
                 <ol reversed>
                 <li>J. Jeong†, <strong>S. Cho</strong>†, S. Hwang†, B. Lee and T. J. Yu, “Modeling and Analysis on High-power Ti:Sapphire Laser Amplifier–A Review,” <em>Appl. Sci.</em> <strong>9</strong>(12), 2396 (2019).</li>
                 <li>J. Jeong, <strong>S. Cho</strong>, S. Hwang, and T. J. Yu, “Amplified spontaneous emission suppression of saturable absorber in nanosecond double-pass laser amplifier,” <em>Jpn. J. Appl. Phys.</em> <strong>58</strong>(2), 020901 (2019).</li>
@@ -21,7 +21,7 @@ permalink: /publication/
                 <li>J. Jeong, <strong>S. Cho</strong>, T. Kim, and T. J. Yu, “Numerical Study of a Thermally-compensated High-energy Double-pass Nd:YAG Amplifier Design,” <em>J. Korean Phys. Soc.</em> <strong>68</strong>(5), 653–657 (2016).</li>
                 </ol>
                 <div class="divider"></div>
-                <h6 class="title center blue-text"><strong>Patent</strong></h6>
+                <h6 class="title center scho-text"><strong>Patent</strong></h6>
                 <ol reversed>
                 <li>자연 증폭 방출 억제용 포화 흡수체를 가지는 고체 레이저 장치{Solid state laser apparatus having saturable absorber for suppressing amplified spontaneous emission}<br>
                     J. Jeong, <strong>S. Cho</strong>, S. Hwang, and T. J. Yu<br>
@@ -44,7 +44,7 @@ permalink: /publication/
                 </ol>
                 <br>
                 <div class="divider"></div>
-                <h6 class="title center blue-text"><strong>Presentations</strong></h6>
+                <h6 class="title center scho-text"><strong>Presentations</strong></h6>
                 <ol reversed>
                 <li><strong>S. Cho</strong> and T. J. Yu, “Pulse propagating simulation using Hermite transform to analyze degradation of spatio-temporal shape induced thermal effects,” Optics and Photonics Congress 2018(Busan, 2018. 08. 27–29).</li>
                 <li>J. Jeong, <strong>S. Cho</strong>, T. Kim, and T. J. Yu, “Precision thermal lens measurement and astigmatism compensation in rod-shaped laser medium,” 2017 the Korean Physical Society Fall Meeting(Gyeongju, 2017.10.25–27.).</li>

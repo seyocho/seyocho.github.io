@@ -4,7 +4,7 @@ title: S.Cho
 permalink: /SCho/
 ---
 
-<h1 class="page-title">Curriculum Vitae</h1>
+<h1 class="page-title scho-text">Curriculum Vitae</h1>
 
 <div class="section">
     <div class="row">
@@ -17,13 +17,13 @@ permalink: /SCho/
                 sycho@handong.edu, 21439001@handong.edu<br>
                 seyocho@gmail.com<br><br>
                 
-                <a href="https://www.researchgate.net/profile/Seryeyohan_Cho" target="_blank" rel="noreferrer noopener">ResearchGate Profile</a>&nbsp; &nbsp; <a href="https://scholar.google.co.kr/citations?user=MueulK4AAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noreferrer noopener">GoogleScholar Profile</a>&nbsp; &nbsp;
+                <a class="scho-text" href="https://www.researchgate.net/profile/Seryeyohan_Cho" target="_blank" rel="noreferrer noopener">ResearchGate Profile</a>&nbsp; &nbsp; <a class="scho-text" href="https://scholar.google.co.kr/citations?user=MueulK4AAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noreferrer noopener">GoogleScholar Profile</a>&nbsp; &nbsp;
                 {% for doc in site.static_files %}
                 {% if doc.name == 'cv.pdf' %}
-                  <a href="{{site.baseurl}}{{doc.path}}">C.V.(PDF)</a>&nbsp; &nbsp;
+                  <a class="scho-text" href="{{site.baseurl}}{{doc.path}}">C.V.(PDF)</a>&nbsp; &nbsp;
                 {% endif %}
                 {% if doc.name == 'pf.pdf' %}
-                  <a href="{{site.baseurl}}{{doc.path}}">Portfolio(PDF)</a>
+                  <a class="scho-text" href="{{site.baseurl}}{{doc.path}}">Portfolio(PDF)</a>
                 {% endif %}
                 {% endfor %}
 
