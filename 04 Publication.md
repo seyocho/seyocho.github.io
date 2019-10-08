@@ -10,7 +10,7 @@ permalink: /publication/
    <div class="row">
           <div class="col s12">
                 <h6 class="title center scho-text"><strong>Journal papers</strong></h6>
-                <ol reversed=true>
+                <ol reversed>
                 <li>J. Jeong†, <strong>S. Cho</strong>†, S. Hwang†, B. Lee and T. J. Yu, “Modeling and Analysis on High-power Ti:Sapphire Laser Amplifier–A Review,” <em>Appl. Sci.</em> <strong>9</strong>(12), 2396 (2019).</li>
                 <li>J. Jeong, <strong>S. Cho</strong>, S. Hwang, and T. J. Yu, “Amplified spontaneous emission suppression of saturable absorber in nanosecond double-pass laser amplifier,” <em>Jpn. J. Appl. Phys.</em> <strong>58</strong>(2), 020901 (2019).</li>
                 <li>J. Jeong, <strong>S. Cho</strong>, S. Hwang, and T. J. Yu, “Frequency-Modulated Pulse-Amplification Method for Reducing Pulse Shape Distortion,” <em>J. Korean Phys. Soc.</em> <strong>73</strong>(11), 1637—1643 (2018).</li>
@@ -22,7 +22,7 @@ permalink: /publication/
                 </ol>
                 <div class="divider"></div>
                 <h6 class="title center scho-text"><strong>Patent</strong></h6>
-                <ol reversed=true>
+                <ol reversed>
                 <li>자연 증폭 방출 억제용 포화 흡수체를 가지는 고체 레이저 장치{Solid state laser apparatus having saturable absorber for suppressing amplified spontaneous emission}<br>
                     J. Jeong, <strong>S. Cho</strong>, S. Hwang, and T. J. Yu<br>
                     KR Patent:10-2018-0086145(pending)<br>
@@ -45,7 +45,7 @@ permalink: /publication/
                 <br>
                 <div class="divider"></div>
                 <h6 class="title center scho-text"><strong>Presentations</strong></h6>
-                <ol reversed=true>
+                <ol reversed>
 
                 <li>S. Lee, D. Park, H. Lee, <strong>S. Cho</strong>, S. Hwang and T. J. Yu, "Development of 100JHz nano-second high-repetition-rate laser for surface treatments," 2019 Spring Conference of the Korean Society og Industry Convergence(Busan, 2019. 07. 11--12).</li>
 
