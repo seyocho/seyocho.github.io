@@ -9,12 +9,16 @@ permalink: /SCho/
 <div class="section">
     <div class="row">
           <div class="col s12">
-                <h5>Cho, Seryeyohan(조세례요한)</h5><p class="thin">Handong Intense Laser Laboratory, Pohang, Rep. of Korea</p>
+                <h5>Cho, Seryeyohan(조세례요한)</h5>
+                <p class="thin">HiLASE Centre, Dolni Brezany, Czech Repulic</p>
+                
+                HiLASE Centre, Institute of Physics of the CAS<br>
+                Za Radnicí 828, 25241 Dolní Břežany, Czech Republic<br><br>
                 
                 Department of Advanced Green Energy and Environment<br>
                 Handong University, Pohang, South Korea<br><br>
                 
-                sycho@handong.edu, 21439001@handong.edu<br>
+                Seryeyohan.Cho@HiLASE.cz, sycho@handong.edu, 21439001@handong.edu<br>
                 seyocho@gmail.com<br><br>
                 
                 <a class="scho-text" href="https://www.researchgate.net/profile/Seryeyohan_Cho" target="_blank" rel="noreferrer noopener">ResearchGate Profile</a>&nbsp; &nbsp; <a class="scho-text" href="https://scholar.google.co.kr/citations?user=MueulK4AAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noreferrer noopener">GoogleScholar Profile</a>&nbsp; &nbsp;
