@@ -12,7 +12,7 @@ permalink: /SCho/
                 <h5>Cho, Seryeyohan(조세례요한)</h5>
                 <p class="thin">HiLASE Centre, Dolni Brezany, Czech Republic</p>
                 
-                HiLASE Centre, Institute of Physics of the CAS<br>
+                HiLASE Centre, Institute of Physics of the Czech Academy of Sciences<br>
                 Za Radnicí 828, 25241 Dolní Břežany, Czech Republic<br><br>
                 
                 Department of Advanced Green Energy and Environment<br>
