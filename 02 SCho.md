@@ -9,13 +9,17 @@ permalink: /SCho/
 <div class="section">
     <div class="row">
           <div class="col s12">
-                <h5>Cho, Seryeyohan(조세례요한)</h5><p class="thin">Handong Intense Laser Laboratory, Pohang, Rep. of Korea</p>
+                <h5>Cho, Seryeyohan(조세례요한)</h5>
+                <p class="thin">Advanced AI Talent Education & Research Group for Industrial Innovation</p>
+                <p class="thin">Global Institute of Laser Technology</p>
                 
-                Department of Advanced Green Energy and Environment<br>
-                Handong University, Pohang, South Korea<br><br>
+                <br>
                 
-                sycho@handong.edu, 21439001@handong.edu<br>
-                seyocho@gmail.com<br><br>
+                Department of Information and Communication Engineering<br>
+				Department of Advanced Convergence<br>
+                Handong Global University, Pohang, Republic of Korea<br><br>
+                
+                sycho@handong.edu, seyocho@gmail.com<br><br>
                 
                 <a class="scho-text" href="https://www.researchgate.net/profile/Seryeyohan_Cho" target="_blank" rel="noreferrer noopener">ResearchGate Profile</a>&nbsp; &nbsp; <a class="scho-text" href="https://scholar.google.co.kr/citations?user=MueulK4AAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noreferrer noopener">GoogleScholar Profile</a>&nbsp; &nbsp;
                 {% for doc in site.static_files %}
@@ -33,8 +37,8 @@ permalink: /SCho/
     <div class="row">
           <div class="col s12">
                 <h5>Education:</h5>
-                (in course)Ph.D. in Eng., Photonics, Handong University, (expected 2020)<br>
-                Dual B.S., Mechanical Engineering and Electrical Control Engineering, Handong University, 2014<br>
+                Ph.D. in Eng., Photonics, Handong Global University, 2021<br>
+                Dual B.S., Mechanical Engineering and Electrical Control Engineering, Handong Global University, 2014<br>
                 Keisung High School, 2009<br>
           </div>
     </div>
@@ -43,7 +47,8 @@ permalink: /SCho/
           <div class="col s12">
                 <h5>Research Interests:</h5>
                 Laser science and engineering: High power/high energy laser, Ti:sapphire laser amplifier<br>
-                High energy laser applications: Laser shock peening<br>
+                High energy laser applications, Laser materials<br>
+                Optics/Laser techniques for AI / AI for optics/laser techniques
                 
           </div>
     </div>
@@ -52,7 +57,8 @@ permalink: /SCho/
           <div class="col s12">
                 <h5>List of Projects:</h5>
                 <ol reversed>
-                <li>The Competency Development Program for Industrial Specialist(Laser & Optical Applications), Ministry of Trade, Industry and Energy, Rep. of Korea (2019–present)</li>
+                <li>The Competency Development Program for Industrial Specialist(Laser & Optical Applications) 레이저/광응용분야 전문인력양성 사업, Ministry of Trade, Industry and Energy, Rep. of Korea (2019–present)</li>
+                <li>The Construction and optimization of the picosecond Regenerative Amplifier and Their Components, funded by HiLASE, EU’s Horizon 2020, Czech Rep.(2019–2020)</li>
                 <li>Research on CHF and contact angle change by laser shock peening(레이저충격피닝에 의한 임계열유속과 접촉각의 변화 연구), National Research Foundation, Rep. of Korea,(2018--present)</li>
                 <li>Development of transparency and wavefront distortion measurement system for ceramic laser medium(광학간섭계를 이용한 투명도 및 파면왜곡도 측정장치 개발), Korea Institute of Materials Science(2018--present)</li>
                 <li>Development of 125 JHz laser system for laser peening(표면개질용 125 JHz급 레이저 개발), Ministry of Trade, Industry and Energy, Rep. of Korea(2014--2018)</li>
@@ -65,6 +71,7 @@ permalink: /SCho/
                 <h5>List of Publications:</h5>
                 <h6><center><strong>Journal papers</strong></center></h6>
                 <ol reversed>
+                <li><strong>S. Cho</strong>, O. Novak, M. Smrz, A. Lucianetti, T. J. Yu, T. Mocek, Numerical analysis of beam distortion induced by thermal effects in chirped volume Bragg grating compressors for high-power lasers, <em>J. Opt. Soc. Am. B</em>, <strong>37</strong>(12), 3874–3881 (Dec. 2020).</li>
                 <li>J. Jeong†, <strong>S. Cho</strong>†, S. Hwang†, B. Lee and T. J. Yu, “Modeling and Analysis on High-power Ti:Sapphire Laser Amplifier–A Review,” <em>Appl. Sci.</em> <strong>9</strong>(12), 2396 (2019).</li>
                 <li>J. Jeong, <strong>S. Cho</strong>, S. Hwang, and T. J. Yu, “Amplified spontaneous emission suppression of saturable absorber in nanosecond double-pass laser amplifier,” <em>Jpn. J. Appl. Phys.</em> <strong>58</strong>(2), 020901 (2019).</li>
                 <li>J. Jeong, <strong>S. Cho</strong>, S. Hwang, and T. J. Yu, “Frequency-Modulated Pulse-Amplification Method for Reducing Pulse Shape Distortion,” <em>J. Korean Phys. Soc.</em> <strong>73</strong>(11), 1637—1643 (2018).</li>
